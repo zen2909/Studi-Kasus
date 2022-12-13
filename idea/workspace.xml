@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="722c537d-1a78-49c2-8b57-63ed8e9c5164" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2G6qKqttsZofRybcXJ2pFatoZo1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Coding/Praktikum&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Coding\Praktikum\src\Main" />
+      <recent name="C:\Coding\Praktikum\src\Barang" />
+      <recent name="C:\Coding\Praktikum\src\Admin" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main.Main" />
+      <module name="Praktikum" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="722c537d-1a78-49c2-8b57-63ed8e9c5164" name="Changes" comment="" />
+      <created>1665719322581</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665719322581</updated>
+      <workItem from="1665719323820" duration="2872000" />
+      <workItem from="1665728067160" duration="1859000" />
+      <workItem from="1665733560933" duration="4323000" />
+      <workItem from="1665738548780" duration="769000" />
+      <workItem from="1665760198434" duration="1061000" />
+      <workItem from="1665928948117" duration="384000" />
+      <workItem from="1666006265273" duration="936000" />
+      <workItem from="1666023451238" duration="360000" />
+      <workItem from="1666279175202" duration="822000" />
+      <workItem from="1666318856091" duration="6109000" />
+      <workItem from="1666332127776" duration="918000" />
+      <workItem from="1666333417561" duration="43000" />
+      <workItem from="1666460017715" duration="1288000" />
+      <workItem from="1666592029452" duration="759000" />
+      <workItem from="1666593192487" duration="105000" />
+      <workItem from="1666798823766" duration="3581000" />
+      <workItem from="1666833533869" duration="654000" />
+      <workItem from="1667184770392" duration="217000" />
+      <workItem from="1667184997293" duration="291000" />
+      <workItem from="1667185299910" duration="254000" />
+      <workItem from="1667185679567" duration="58000" />
+      <workItem from="1667185747594" duration="34000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
